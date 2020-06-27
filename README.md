@@ -11,7 +11,7 @@ You can install this module into your Zend Framework application using [composer
 
 The recommended way to install composer packages is:
 ```
-composer require itdelivery/ZendAPI
+composer require itdelivery/zend-api
 ```
 
 Now copy this file "vender/itdelivery/ZendAPI/config/restapi.global.php" and paste to root "config/autoload/restapi.global.php"
